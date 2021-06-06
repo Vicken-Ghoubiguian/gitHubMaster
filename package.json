@@ -1,7 +1,7 @@
 {
   "name": "@wicken/githubmaster",
   "version": "1.0.0",
-  "description": "",
+  "description": "NPM module for in-depth research and consultation of GitHub",
   "main": "gitHubMaster.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
